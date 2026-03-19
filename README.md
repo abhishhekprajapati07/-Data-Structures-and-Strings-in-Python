@@ -1,5 +1,4 @@
 # -Data-Structures-and-Strings-in-Python
-# Python Dictionary and List Slicing
 
 This repository contains simple Python programs demonstrating basic concepts like dictionaries and list slicing. It is designed for beginners to understand fundamental operations in Python.
 
